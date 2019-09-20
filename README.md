@@ -1,6 +1,7 @@
 # resume
 Peter Jarvis                                       
-www.linkedin.com/in/thepeterjarvis/ 
+www.linkedin.com/in/thepeterjarvis/
+
 11503 Bell Ave, Austin, TX 78759    
 512-981-5278   
 peter@myjarvis.com 
